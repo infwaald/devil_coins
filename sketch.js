@@ -24,7 +24,6 @@ function setup() {
   //creating signature
   label3 = createP('');
   label3.style('color', '#888').position(width + 2, 0);
-  label3.html('Made by Vlada Nakonechna, KA-77, IASA, 2020');
 
 
   //adding buttons
