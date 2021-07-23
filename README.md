@@ -13,8 +13,8 @@ https://editor.p5js.org/infwaald/present/0VykBeZ7A
 My assignment required all tails to be up
 
 ## How to use
-- *New random setup* - randomizes coints, starts a new game
-- *Next turn* - self explenitory, includes the Devil's move
+- *New random setup* - randomizes coins, starts a new game
+- *Next turn* - self explanatory, includes the Devil's move
 - *Manual moves (on/off)* - test all possible moves. Player's moves are disabled if the Devil hasn't turned the table yet
 - *Hide coins (yes/no)* - "blindfolded" mode. If you wanna play yourself :)
 Your goal is to get all tails (🦅)
